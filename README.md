@@ -6,7 +6,7 @@ This project is used as a sample project to show how to use IntelliJ with GitHub
 
 ## Application Results
 
-Using the provided seed data, the given endpoint will product the stated output. Exand each endpoint to see it correct output.
+Using the provided seed data, the given endpoint will produce the stated output. Expand each endpoint to see it's correct output.
 
 <details>
 <summary>http://localhost:8080/dogs</summary>
