@@ -39,6 +39,13 @@ Using the provided seed data, the given endpoint will produce the stated output.
         "catid": 4,
         "catname": "Tiger"
     }
+    {
+        "catid": 5,
+        "catname": "leopo"
+    }
+     {
+        "catid": 6,
+        "catname": "lily"
 ]
 ```
 
