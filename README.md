@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is used as a sample project to show how to use IntelliJ with GitHub
+This project is all about to show the performance of Intellij using GitHub
 
 ## Application Results
 
