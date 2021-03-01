@@ -29,7 +29,7 @@ public class Cat
 
     public String getCatname()
     {
-        return catname;
+        return catname.toYpperCase();
     }
 
     public void setCatname(String catname)
